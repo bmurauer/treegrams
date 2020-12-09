@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dtgrams"
+name = "treegrams"
 version = "0.1.0"
 description = "Extracts sub-tree patterns from NLTK tree structures."
 authors = ["Benjamin Murauer <b.murauer@posteo.de>"]
